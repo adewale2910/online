@@ -1,7 +1,7 @@
 import React from 'react'
 import image1 from "../ComponentBenefit/Image/Image.png";
-// import image2 from '../ComponentBenefit/Image/Image2.png'
-// import image3 from '../ComponentBenefit/Image/Image3.png'
+import image2 from '../ComponentBenefit/Image/Image2.png'
+import image3 from '../ComponentBenefit/Image/Image3.png'
 
 function OnlineCOurses() {
   return (
@@ -25,8 +25,8 @@ function OnlineCOurses() {
     <button type="button" className="btn btn-light ms-5 ">View Courses</button>
 <div className="gap-3">
     <img src={image1} className='w-50 p-3'/>
-    <img src={image1} className='w-50 p-3' />
-    <img src={image1}className='w-50 p-3' />
+    <img src={image2} className='w-50 p-3' />
+    <img src={image3}className='w-50 p-3' />
 </div>
     <h2 className='mt-5'>Curriculum</h2>
 <div className="d-flex flex-wrap">
