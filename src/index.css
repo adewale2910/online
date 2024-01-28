@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+*{
+  /* border: 2px solid red; */
+
+}
+/* css for the homepage start  */
+.top {
+
+    background: linear-gradient(0deg, #FF9500, #FF9500),
+        linear-gradient(0deg, #FF9500, #FF9500);
+}
+.device{
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+.unlock{
+    color: #FF9500;
+
+}
+  
+  @media screen and (max-width: 900px) {
+   
+    /* body {
+     border: 2px solid red;
+    } */
+   
+    .device{
+        font-size: larger;
+        font-weight: bolder;
+    }
+    
+    h1 {
+        font-size: 30px;
+       
+    }
+    .m5{
+        font-size: 20px;
+        margin-left: 80px !important;
+
+
+    }
+  }
+/* css for the homepage end  */
+
+
