@@ -10,7 +10,7 @@ import OurCourses from './ComponentBenefit/OurCourses'
 import Testimon from './ComponentBenefit/Image/Testimon'
 import Pricingcard from './ComponentBenefit/Pricingcard'
 import Foot from './ComponentHome/Foot'
-import { Route, Routes } from 'react-router-dom'
+// import { Route, Routes } from 'react-router-dom'
 import OnlineCOurses from './Page2/OnlineCOurses'
 
 
@@ -27,6 +27,7 @@ function App() {
      <Benefit/>
      <Testimon/>
      <Pricingcard/>
+     <OurCourses/>
      <OnlineCOurses/>
 {/* <Routes>
     <Route path='/Home' element={<Home/>}/>

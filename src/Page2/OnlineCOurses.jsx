@@ -1,7 +1,7 @@
 import React from 'react'
 import image1 from "../ComponentBenefit/Image/Image.png";
-import image2 from '../ComponentBenefit/Image/Image2.png'
-import image3 from '../ComponentBenefit/Image/Image3.png'
+// import image2 from '../ComponentBenefit/Image/Image2.png'
+// import image3 from '../ComponentBenefit/Image/Image3.png'
 
 function OnlineCOurses() {
   return (
