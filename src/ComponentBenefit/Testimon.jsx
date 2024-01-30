@@ -1,8 +1,9 @@
 import React from 'react'
-import tes1 from '../Image/tes1.png'
-import tes2 from '../Image/tes2.png'
-import tes3 from '../Image/tes3.png'
-import tes4 from '../Image/tes4.png'
+import tes1 from '../IMAGEPAGE/tes1.png'
+import tes2 from '../IMAGEPAGE/tes2.png'
+import tes3 from '../IMAGEPAGE/tes3.png'
+import tes4 from '../IMAGEPAGE/tes4.png'
+
 
 function Testimon() {
   return (

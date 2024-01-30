@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './image/Logo.png'
+import logo from '../IMAGEPAGE/Logo.png'
 import { IoMdArrowForward } from "react-icons/io";
 // import { Link } from 'react-router-dom';
 // import top from './image/Top Banner.png'

@@ -1,14 +1,24 @@
 import React from "react";
-import icon from "../ComponentHome/image/Icon.png";
-import Abstract from '../ComponentHome/image/Abstract.png'
-import card1 from "../ComponentHome/image/card1.png";
-import card2 from "../ComponentHome/image/card2.png";
-import card3 from "../ComponentHome/image/card3.png";
-import card4 from "../ComponentHome/image/card4.png";
-import card5 from "../ComponentHome/image/card5.png";
-import card6 from "../ComponentHome/image/card6.png";
-import card7 from "../ComponentHome/image/card7.png";
-import videoimage from "../ComponentHome/image/videoimage.png";
+// import icon from "../ComponentHome/image/Icon.png";
+// import Abstract from '../ComponentHome/image/Abstract.png'
+// import card1 from "../ComponentHome/image/card1.png";
+// import card2 from "../ComponentHome/image/card2.png";
+// import card3 from "../ComponentHome/image/card3.png";
+// import card4 from "../ComponentHome/image/card4.png";
+// import card5 from "../ComponentHome/image/card5.png";
+// import card6 from "../ComponentHome/image/card6.png";
+// import card7 from "../ComponentHome/image/card7.png";
+// import videoimage from "../ComponentHome/image/videoimage.png";
+import icon from '../IMAGEPAGE/Icon.png';
+import Abstract from '../IMAGEPAGE/Abstract.png';
+import card1 from '../IMAGEPAGE/card1.png';
+import card2 from '../IMAGEPAGE/card2.png';
+import card3 from '../IMAGEPAGE/card3.png';
+import card4 from '../IMAGEPAGE/card4.png';
+import card5 from '../IMAGEPAGE/card5.png';
+import card6 from '../IMAGEPAGE/card6.png';
+import card7 from '../IMAGEPAGE/card7.png';
+import videoimage from '../IMAGEPAGE/videoimage.png';
 
 function Home() {
   return (
