@@ -25,9 +25,9 @@ function Home() {
           <h2 className="text-center">
             with Online Design and Development Courses.
           </h2>
-          <sm >
+          <smal >
             Learn from Industry Experts and Enhance Your Skills.
-          </sm>
+          </smal>
         </div>
 
         <div className="container px-4 text-center">

@@ -28,11 +28,11 @@ function OurCourses() {
             <img src={image1} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">4 Weeks</div>
-                  <div class="col">Beginner</div>
-                  <b class="col">By John Smith</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">4 Weeks</div>
+                  <div className="col">Beginner</div>
+                  <b className="col">By John Smith</b>
                 </div>
               </div>
               <br />
@@ -53,11 +53,11 @@ function OurCourses() {
             <img src={image2} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">6 Weeks</div>
-                  <div class="col">Intermediate</div>
-                  <b class="col">By Emily Johnson</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">6 Weeks</div>
+                  <div className="col">Intermediate</div>
+                  <b className="col">By Emily Johnson</b>
                 </div>
               </div>
               <br />
@@ -77,11 +77,11 @@ function OurCourses() {
             <img src={image3} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">8 Weeks</div>
-                  <div class="col">Intermediate</div>
-                  <b class="col">By David Brown</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">8 Weeks</div>
+                  <div className="col">Intermediate</div>
+                  <b className="col">By David Brown</b>
                 </div>
               </div>
               <br />
@@ -101,11 +101,11 @@ function OurCourses() {
             <img src={image4} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">10 Weeks</div>
-                  <div class="col">Beginner</div>
-                  <b class="col">By Sarah Thompson</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">10 Weeks</div>
+                  <div className="col">Beginner</div>
+                  <b className="col">By Sarah Thompson</b>
                 </div>
               </div>
               <br />
@@ -126,11 +126,11 @@ function OurCourses() {
             <img src={image5} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">10 Weeks</div>
-                  <div class="col">Intermediate</div>
-                  <b class="col">By Michael Adams</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">10 Weeks</div>
+                  <div className="col">Intermediate</div>
+                  <b className="col">By Michael Adams</b>
                 </div>
               </div>
               <br />
@@ -151,11 +151,11 @@ function OurCourses() {
             <img src={image6} className="card-img-top" alt="..." />
             <div className="card-body">
 
-              <div class="container">
-                <div class="row">
-                  <div class="col">6 Weeks</div>
-                  <div class="col">Advance</div>
-                  <b class="col">By Jennifer Wilson</b>
+              <div className="container">
+                <div className="row">
+                  <div className="col">6 Weeks</div>
+                  <div className="col">Advance</div>
+                  <b className="col">By Jennifer Wilson</b>
                 </div>
               </div>
               <br />

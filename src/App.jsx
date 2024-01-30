@@ -14,7 +14,7 @@ import Foot from './ComponentHome/Foot'
 import OnlineCOurses from './Page2/OnlineCOurses'
 
 
-Routes
+// Routes
 // import Box from './ComponentBenefit/Box'
 
 function App() {
